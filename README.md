@@ -20,6 +20,8 @@ Bit about me, as already said, not that good at coding, but i like writing guide
 
 Like music, favorite artist is laufey.
 
+_All my public work is licensed under the terms of **[Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org)**._
+
 <br>
 
 <div align="center">
