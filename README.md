@@ -13,7 +13,6 @@ My work is quite simple, but supposedly affective.
 **[Roblox Offset Guides](https://github.com/lordnikky/Roblox-Offset-Guides-for-educational-purposes)**
 
 As the name suggests, educational repository on how to find internal roblox functions.
-
 <br>
 
 Bit about me, as already said, not that good at coding, but i like writing guides. Decided to start making them because i was stuck at some point and couldn't get that one singular offset, and when I finally got it, I decided that no one should go through this.
