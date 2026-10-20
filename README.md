@@ -21,7 +21,7 @@ Bit about me, as already said, not that good at coding, but I like writing guide
 
 Like music, favorite artist is laufey.
 
-_All my public work is licensed under the terms of **[Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en)**._
+_All my public work is licensed under the terms of the custom **[LordNikky Public License (LNPL-NC-1.0)](#)**. Please check the LICENSE file in each repository for exact terms._
 
 <br>
 
