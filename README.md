@@ -17,7 +17,7 @@ My work is quite simple, but supposedly effective.
 As the name suggests, educational repository on how to find internal Roblox functions.
 <br>
 
-Bit about me, as already said, not that good at coding, but I like writing guides. Decided to start making them because i was stuck at some point and couldn't get that one singular offset, and when I finally got it, I decided that no one should go through this.
+Bit about me, as already said, not that good at coding, but I like writing guides. Decided to start making them because I was stuck at some point and couldn't get that one singular offset, and when I finally got it, I decided that no one should go through this.
 
 Like music, favorite artist is laufey.
 
