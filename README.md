@@ -2,7 +2,10 @@
 
 # Hello, and welcome to my profile. Thank you for being here.
 
-My name is Nikky (pronounced nik-KY), or can also be known as lordnikky. I make stuff for people, most of my work is fully open sourced/I share a lot of info about it. Mainly work with guides, because suck at coding.
+My name is Nikky, or can also be known as lordnikky. I make stuff for people, most of my work is fully open sourced/I share a lot of info about it. Mainly work with guides, because suck at coding.
+
+Nikky is pronounced as nik-KY
+LordNikky is Lord-nik-KY
 
 </div>
 
