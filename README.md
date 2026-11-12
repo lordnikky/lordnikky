@@ -23,7 +23,7 @@ As the name suggests, educational repository on how to find internal Roblox func
 
 Bit about me, as already said, not that good at coding, but I like writing guides. Decided to start making them because I was stuck at some point and couldn't get that one singular offset, and when I finally got it, I decided that no one should go through this.
 
-Like music, favorite artist is laufey.
+Like music, favorite artist is Laufey and Lovejoy.
 
 _All my public work is licensed under the terms of the custom **[LordNikky Public License (LNPL-NC-1.0)](#)**. Please check the LICENSE file in each repository for exact terms._
 
